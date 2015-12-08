@@ -3,10 +3,14 @@ First Assessment ..
 
 I choose to do the assessment with dataset for climate change monthly.
 
-First .. load the dataset 
+I create a menu first to show 3 options:
 
-second .. show the dataset in LineGraph or PieChart and could be both. 
+1-Show the Data in line graph by Date 
 
-third .. try to show it in 3D animation.
+2-Show the Data in line graph Avrage-temp.
 
-TEST
+3-Show the Data in line graph Future-temp.
+
+also i Ask the use to load the data first otherwise it wounldn't show the data 
+
+
