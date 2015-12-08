@@ -38,7 +38,7 @@ class menu {
     }
     text("Temp By Date", width/2, 340);
 
-    //by latitude
+    //Temp-Avg
     if (mouseX>((width/2)-100) && mouseY >360 && mouseX < ((width/2)+100) && mouseY < 400) {
       fill(255);
       if (mousePressed) return 3;
@@ -47,7 +47,7 @@ class menu {
     }
     text("Avrage Temp ", width/2, 380);
 
-    //by longitude
+    //Temp-Future
     if (mouseX>((width/2)-100) && mouseY >400 && mouseX < ((width/2)+100) && mouseY < 440) {
       fill(255);
       if (mousePressed) return 4;
