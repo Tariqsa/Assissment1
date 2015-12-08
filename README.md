@@ -25,4 +25,8 @@ First Load it
 
 ![Alt text](https://github.com/Tariqsa/Assissment1/blob/master/data/shot5.jpg?raw=true "Optional 5")
 
+Or this message will apper 
 
+![Alt text](https://github.com/Tariqsa/Assissment1/blob/master/data/Shot6.jpg?raw=true "Optional 6")
+
+END
