@@ -5,6 +5,8 @@ I choose to do the assessment with dataset for climate change monthly.
 
 I create a menu first to show 3 options:
 
+https://github.com/Tariqsa/Assissment1/blob/master/data/Shot1.jpg
+
 1-Show the Data in line graph by Date 
 
 2-Show the Data in line graph Avrage-temp.
