@@ -23,4 +23,6 @@ also i Ask the use to load the data first otherwise it wounldn't show the data
 
 First Load it
 
-![Alt text]https://github.com/Tariqsa/Assissment1/blob/master/data/shot5.jpg?raw=true "Optional 5")
+![Alt text](https://github.com/Tariqsa/Assissment1/blob/master/data/shot5.jpg?raw=true "Optional 5")
+
+
